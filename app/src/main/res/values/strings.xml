@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppTextoDinamico</string>
+    <string name="msg">Texto: </string>
+    <string name="text_d">Texto dinamico</string>
+</resources>
